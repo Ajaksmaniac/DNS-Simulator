@@ -1,0 +1,5 @@
+singidunum.ac.rs 78.44.104.51
+www.amazon.com 123.123.123.123
+www.facebook.com 231.213.245.255
+www.google.com 241.235.215.123
+aaaa 123
