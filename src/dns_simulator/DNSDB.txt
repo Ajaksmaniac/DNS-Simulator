@@ -1,0 +1,2 @@
+www.google.com 123.123.12.123
+www.singidunum.ac.rs 78.44.104.51
